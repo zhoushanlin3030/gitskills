@@ -1,5 +1,5 @@
 {
 	"version":"v1.0.0",
 	"dexDownloadUrl":"https://raw.githubusercontent.com/zhoushanlin3030/gitskills/master/out.jar",
-	"md5":"v1.0.0",
+	"md5":"v1.0.0"
 }
