@@ -1,5 +1,5 @@
 {
-	"version":"v1.0.1",
+	"version":"v1.0.0",
 	"dexDownloadUrl":"https://raw.githubusercontent.com/zhoushanlin3030/gitskills/master/dex.jar",
-	"md5":"df4c837e7356c58f6e6e3a8ef7a45117"
+	"md5":"b4447eeaf26c408782078e811aaf70df"
 }
